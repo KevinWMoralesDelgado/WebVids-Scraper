@@ -30,6 +30,6 @@ and categorizes flights by destination type (**Domestic** vs. **International**)
 
 ---
 
-## 👤 Author & License
+## 👤 Author
 
 * **Author:** Kevin M
