@@ -30,6 +30,8 @@ and categorizes flights by destination type (**Domestic** vs. **International**)
 
 ---
 
-## 👤 Author
+## 🔒 License & Copyright
 
-* **Author:** Kevin M
+© 2026 Kevin Morales. All rights reserved.
+
+This project is personal software. Unauthorized copying, redistribution, or commercial use of this repository or its source code is strictly prohibited without explicit permission from the author.
